@@ -1,0 +1,13 @@
+[
+  {
+    "role": "Celebal Summer Intern",
+    "organisation": "Celebal",
+    "startDate": "Jun, 2024",
+    "endDate": "Aug, 2024",
+    "experiences": [
+      "Worked on ReactJs",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/celebal.png"
+  }
+]

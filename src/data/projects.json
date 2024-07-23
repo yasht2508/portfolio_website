@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Netflix Clone",
+    "imageSrc": "projects/project1.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node","Sass"],
+    "demo": "https://netflix-clone-psi-three-56.vercel.app/",
+    "source": "https://github.com/yasht2508/Netflix-Clone.git"
+  },
+  {
+    "title": "Quiz Application",
+    "imageSrc": "projects/project2.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://quiz-app-fvhm.vercel.app/",
+    "source": "https://github.com/yasht2508/quiz_App"
+  },
+  {
+    "title": "Password Generator",
+    "imageSrc": "projects/project3.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Tailwind CSS"],
+    "demo": "https://random-password-genrator.vercel.app/",
+    "source": "https://github.com/yasht2508/RandomPasswordGenrator.git"
+  }
+]
