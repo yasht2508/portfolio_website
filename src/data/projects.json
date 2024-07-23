@@ -2,7 +2,7 @@
   {
     "title": "Netflix Clone",
     "imageSrc": "projects/project1.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Developed a Netflix clone using ReactJS and Axios for dynamic data fetching, with a responsive frontend crafted using HTML and CSS.",
     "skills": ["React", "Express", "Node","Sass"],
     "demo": "https://netflix-clone-psi-three-56.vercel.app/",
     "source": "https://github.com/yasht2508/Netflix-Clone.git"
@@ -10,7 +10,7 @@
   {
     "title": "Quiz Application",
     "imageSrc": "projects/project2.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Built a dynamic quiz application in React utilizing the Context API for state management and seamless user experience.",
     "skills": ["React", "Express", "Node", "Sass"],
     "demo": "https://quiz-app-fvhm.vercel.app/",
     "source": "https://github.com/yasht2508/quiz_App"
@@ -18,7 +18,7 @@
   {
     "title": "Password Generator",
     "imageSrc": "projects/project3.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Designed a secure random password generator using React, providing users with customizable and strong passwords effortlessly.",
     "skills": ["React", "Tailwind CSS"],
     "demo": "https://random-password-genrator.vercel.app/",
     "source": "https://github.com/yasht2508/RandomPasswordGenrator.git"
